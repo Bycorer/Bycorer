@@ -10,7 +10,11 @@ Welcome to my digital universe! 🌌 I'm Bycor, a coding sorcerer, design alchem
 - ☕ Fueling my adventures with copious amounts of coffee
 - 🌈 Exploring the realms of creativity and innovation
 
-##  ![ 🌟 Github Stats](https://github-readme-stats.vercel.app/api?username=Bycorer&show_icons=true&theme=dark&count_private=true)
+##  🌟Github Stats
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Bycorer&show_icons=true&theme=dark&count_private=true)
+
+## 🌍
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bycorer&theme=dark&layout=compact)
 
 
 
