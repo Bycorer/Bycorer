@@ -2,13 +2,18 @@
 
 Welcome to my digital universe! 🌌 I'm Bycor, a coding sorcerer, design alchemist, and coffee aficionado. Join me on this magical journey through bits and pixels! ✨
 
-## ✨ About Me
+## ✨ 关于我
 
 - 🎓 在奇迹学院学习代码的艺术
 - 🚀 打造迷人的网站和应用
 - 🎨 设计梦幻般的界面，闪耀夺目
 - ☕ 用大量的咖啡激发我的冒险精神
 - 🌈 探索创造力和创新的领域
+
+## 🌈
+
+![夸夸](https://img.shields.io/endpoint?url=https://api.shadiao.pro/chp&style=flat-square)
+
 
 ## 📫 联系我
 
