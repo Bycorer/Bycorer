@@ -44,4 +44,9 @@ Welcome to my digital universe! 🌌 I'm Bycor, a coding sorcerer, design alchem
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Bycorer&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+## 🎨 GitHub 贡献艺术
+
+![GitHub 贡献艺术](https://ghchart.rshah.org/Bycorer)
+
+
 
