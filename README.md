@@ -26,6 +26,16 @@ Welcome to my digital universe! 🌌 I'm Bycor, a coding sorcerer, design alchem
 - 🚀 我相信魔法、代码和想象力的力量。
 - 🎮 空闲时间里，你会在我进行史诗游戏任务。
 
+## 🎶 当前播放
+
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/oa5j3ib8cf5w4o5asjtr2ecjf)
+
+## 🌌 技术星系
+
+![技术星系图](https://github.com/Bycorer/tech-galaxy/blob/main/galaxy.png)
+
+
+
 
 
 
