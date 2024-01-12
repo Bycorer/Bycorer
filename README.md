@@ -28,16 +28,11 @@ Welcome to my digital universe! 🌌 I'm Bycor, a coding sorcerer, design alchem
 
 ## 🎶 当前播放
 
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/oa5j3ib8cf5w4o5asjtr2ecjf)
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/Baiwanf)
 
-## 🌌 技术星系
+## 📊 数据可视化
 
-![技术星系图](https://github.com/Bycorer/tech-galaxy/blob/main/galaxy.png)
-
-
-
-
-
+![活动统计](https://github.com/Bycorer/activity-chart/blob/main/chart.png)
 
 ##  🌟Github Stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Bycorer&show_icons=true&theme=dark&count_private=true)
