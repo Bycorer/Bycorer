@@ -35,6 +35,8 @@
 ![Nacos](https://img.shields.io/badge/Nacos-4285F4?style=flat-square&logo=alibabacloud&logoColor=white)
 ![RocketMQ](https://img.shields.io/badge/RocketMQ-D77310?style=flat-square&logo=apache-rocketmq&logoColor=white)
 ![Sentinel](https://img.shields.io/badge/Sentinel-4CAF50?style=flat-square&logo=sentinel&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+![ElasticJob](https://img.shields.io/badge/ElasticJob-0077B5?style=flat-square&logo=elastic&logoColor=white)
 
 
 
