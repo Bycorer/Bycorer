@@ -20,5 +20,5 @@
 
 
 <br>
-![github stats](https://github-readme-stats.vercel.app/api?username=saravananselvamohan&show_icons=true)
+[github stats](https://github-readme-stats.vercel.app/api?username=Bycor&show_icons=true)
 
