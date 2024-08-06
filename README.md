@@ -13,7 +13,7 @@
 ### 很高兴在这里见到你 🌱 
 
 ##### 嗨，我是 Bycor 😉，来自中国 🇨🇳 的程序员👨🏻 💻。从事 Java 🐍 开发。 目前。除了编程，我喜欢看动漫 和 游戏。
-[![MtF-wiki][https://github.com/project-trans/MtF-wiki/blob/master/static/logo.svg]][wiki-url]
+[![MtF-wiki][logo-long]][wiki-url]
 
 ### 使用的技术 💮 ✅
 
@@ -53,3 +53,5 @@
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=Bycor&show_icons=true)
 
+[logo-long]: https://github.com/project-trans/MtF-wiki/blob/master/static/new/mtf-wiki-long.svg
+[wiki-url]: https://mtf.wiki
