@@ -39,7 +39,7 @@
 ![ElasticJob](https://img.shields.io/badge/ElasticJob-0077B5?style=flat-square&logo=elastic&logoColor=white)
 ![MyBatis](https://img.shields.io/badge/MyBatis-4479A1?style=flat-square&logo=mybatis&logoColor=white)
 ![MyBatis-Plus](https://img.shields.io/badge/MyBatis%20Plus-2F74C0?style=flat-square&logo=mybatis&logoColor=white)
-![Seata](https://img.shields.io/badge/Seata-009688?style=flat-square&logo=seata&logoColor=white)
+![Seata](https://img.shields.io/badge/Seata-009688?style=flat-square&logo=apache&logoColor=white)
 ![Activiti7](https://img.shields.io/badge/Activiti7-23BEB1?style=flat-square&logo=activiti&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=spring-security&logoColor=white)
