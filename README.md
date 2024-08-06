@@ -12,7 +12,7 @@
 
 ### 很高兴在这里见到你 🌱 
 
-##### 嗨，我是 Bycor 😉，来自中国 🇨🇳 的程序员👨🏻 💻。从事 Java 🐍 开发。 目前。除了编程，我喜欢看动漫 和 游戏。
+##### 嗨，我是 Bycor 😉，来自中国 🇨🇳 的程序员👨🏻 💻。从事 Java Web 🐍 开发。 目前,除了编程，我喜欢看动漫 和 游戏。
 [![MtF-wiki][logo-long]][wiki-url]
 
 ### 使用的技术 💮 ✅
@@ -45,11 +45,17 @@
 ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=spring-security&logoColor=white)
 
 <br>
-还在学习中....🔜	
+还在学习中....🔜	![Netty](https://img.shields.io/badge/Netty-4CAF50?style=flat-square&logo=netty&logoColor=white)
+![Dubbo](https://img.shields.io/badge/Dubbo-3A3A3A?style=flat-square&logo=apache-dubbo&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vert.x](https://img.shields.io/badge/Vert.x-4B6EAF?style=flat-square&logo=vert.x&logoColor=white)
+![Golang](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
 
 
-
+<br>
+<br>
+<br>
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=Bycor&show_icons=true)
 
