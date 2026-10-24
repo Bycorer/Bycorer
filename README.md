@@ -1,4 +1,4 @@
-## Hi, I'm Bycorer
+## Hi, I'm xiaoyi36c
 
 Full-stack engineer. Backend-native (Java / Spring Cloud microservices), fluent across the stack — TypeScript frontends, Go services, cloud-native infra, and LLM-powered features.
 
@@ -6,7 +6,7 @@ Full-stack engineer. Backend-native (Java / Spring Cloud microservices), fluent 
 
 ### 🧭 Current project
 
-**[filtrationX](https://github.com/Bycorer/filtrationX)** — an X (Twitter) spam-filter browser extension based on [MXGA](https://github.com/foru17/make-x-great-again) (Chrome MV3 / TypeScript)
+**[filtrationX](https://github.com/xiaoyi36c/filtrationX)** — an X (Twitter) spam-filter browser extension based on [MXGA](https://github.com/foru17/make-x-great-again) (Chrome MV3 / TypeScript)
 
 I own the full secondary-development chain. A few representative engineering pieces:
 
@@ -93,7 +93,7 @@ I own the full secondary-development chain. A few representative engineering pie
 
 ---
 
-<img align="left" width="49%" src="https://github-readme-stats.vercel.app/api?username=Bycorer&show_icons=true&hide_border=true&count_private=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bycorer&layout=compact&hide_border=true&langs_count=8" />
+<img align="left" width="49%" src="https://github-readme-stats.vercel.app/api?username=xiaoyi36c&show_icons=true&hide_border=true&count_private=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoyi36c&layout=compact&hide_border=true&langs_count=8" />
 
-<img src="https://streak-stats.demolab.com?user=Bycorer&hide_border=true" width="98%" />
+<img src="https://streak-stats.demolab.com?user=xiaoyi36c&hide_border=true" width="98%" />
